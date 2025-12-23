@@ -8,7 +8,7 @@ The objective of this project is to perform data cleaning, exploratory data anal
 
 The dataset contains customer insurance information, including age, BMI, smoking status, region, and insurance charges.
 
-This project demonstrates an end-to-end data analysis workflow, suitable for data analyst and business analyst portfolios.
+This project demonstrates an end-to-end data analysis workflow, suitable for data analysts and business analysts' portfolios.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Project Objectives
@@ -26,7 +26,7 @@ This project demonstrates an end-to-end data analysis workflow, suitable for dat
 * Generate Probability Distribution Function (PDF) plots
 
 * Export analysis results into a professional PDF report
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. Technologies & Tools Used
 
 * Python
@@ -42,6 +42,7 @@ This project demonstrates an end-to-end data analysis workflow, suitable for dat
 * ReportLab – PDF report generation
 
 * Jupyter Notebook
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Project Highlights
 
