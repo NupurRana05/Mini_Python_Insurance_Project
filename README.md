@@ -9,6 +9,7 @@ The objective of this project is to perform data cleaning, exploratory data anal
 The dataset contains customer insurance information, including age, BMI, smoking status, region, and insurance charges.
 
 This project demonstrates an end-to-end data analysis workflow, suitable for data analyst and business analyst portfolios.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Project Objectives
 
